@@ -1,6 +1,9 @@
-/bin/
-**/bin/
-
 # Ignore compiled binaries
 *.dll
 *.pdb
+
+# Ignore build output directories
+bin/
+obj/
+EFSQLITE_Demo/bin/
+EFSQLITE_Demo/obj/
